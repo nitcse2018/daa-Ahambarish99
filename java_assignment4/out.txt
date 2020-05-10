@@ -1,0 +1,7 @@
+This below is the output in console
+
+
+PRODUCER added -1782614349 into queue
+PRODUCER : Signalling that buffer is no more empty now
+CONSUMER consumed -1782614349 from queue
+CONSUMER : Signalling that buffer may be empty now
